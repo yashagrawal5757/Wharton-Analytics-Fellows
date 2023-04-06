@@ -67,10 +67,10 @@ One can go through the notebook to see all the analysis or alternatively see bel
 
 
 
-<img src="results/img1.png" align="left" height="300" width="600" > <br>
-<img src="results/img2.png" align="left" height="300" width="600" > <br>
-<img src="results/img3.png" align="left" height="300" width="600" > <br>
-<img src="results/img4.png" align="left" height="300" width="600" > <br>
-<img src="results/img5.png" align="left" height="300" width="600" > <br>
+<img src="results/img1.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/img2.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/img3.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/img4.png" align="left" height="300" width="600" > <br><br><br>
+<img src="results/img5.png" align="left" height="300" width="600" > <br><br><br>
 
 
