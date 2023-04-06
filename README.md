@@ -37,7 +37,7 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 The project makes use of 2 csv files namely:
 
-1. sp23_datachallenge.csv - Contains data on user's demographic data, banking history, application details, browser/session details.
+1. sp23_datachallenge.csv - Contains data on user's demographic data, banking history, application details, browser/session details. Download the dataset from [here](https://drive.google.com/file/d/1FDBXPYmVmkah_Uw2kQ61HlghCedvkWUg/view?usp=share_link )
 
 2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
 	
