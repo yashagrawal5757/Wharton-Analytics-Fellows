@@ -45,8 +45,7 @@ The project makes use of 2 csv files namely:
 <img src="dictionary.png" align="left" height="450" width="700" > </img>
 </p>
 
-<p>
-	
+
 ### Metrics
 Since this is a fraud detection use case, mere R2 score and accuracy will not be perfect indicators. Hence, I have used ROC Curve and ROC-AUC score as final metric for my XGBoost Model
 
