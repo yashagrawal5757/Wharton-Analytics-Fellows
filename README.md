@@ -63,7 +63,7 @@ Since this is a fraud detection use case, mere R2 score and accuracy will not be
 
 ### EDA insights & Modeling results 
 
-One can go through the notebook to see all the analysis or alternatively see below.
+One can go through the notebook (**Try opening the file in Google colab or download the notebook to avoid any formatting errors in rendering**) to see all the analysis or alternatively see below.
 
 
 
