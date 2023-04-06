@@ -34,7 +34,6 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 </p>
 
 ### Dataset Description
-<p align="justify">
 
 The project makes use of 2 csv files namely:
 
