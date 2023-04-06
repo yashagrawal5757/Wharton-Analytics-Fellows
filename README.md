@@ -42,7 +42,8 @@ The project makes use of 2 csv files namely:
 
 2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
 
-<img src="dictionary.png" align="left" height="450" width="700" > </img></p>
+<img src="dictionary.png" align="left" height="450" width="700" > </img>
+
 <br>
 
 ### Metrics
