@@ -41,11 +41,6 @@ The project makes use of 2 csv files namely:
 1. sp23_datachallenge.csv - Contains data on user's demographic data, banking history, application details, browser/session details.
 
 2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
-
-<p>
-	<img src="dictionary.png" align="left" height="450" width="700" > </img>
-</p>
-
 	
 ### Metrics
 Since this is a fraud detection use case, mere R2 score and accuracy will not be perfect indicators. Hence, I have used ROC Curve and ROC-AUC score as final metric for my XGBoost Model
