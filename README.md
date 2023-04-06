@@ -43,10 +43,7 @@ The project makes use of 2 csv files namely:
 2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
 
 <img src="dictionary.png" align="left" height="450" width="700" > </img></p>
-
-
-
-
+<br>
 
 ### Metrics
 Since this is a fraud detection use case, mere R2 score and accuracy will not be perfect indicators. Hence, I have used ROC Curve and ROC-AUC score as final metric for my XGBoost Model
@@ -72,7 +69,7 @@ Since this is a fraud detection use case, mere R2 score and accuracy will not be
 
 ### EDA insights & Modeling results 
 
-One can go through the notebook to see all the analysis or alternatively use Analysis Presentation file to see the insights I presented to the client.
+One can go through the notebook to see all the analysis or alternatively use Analysis Presentation file to see the insights I presented to the client. A snapshot of the slides are given below as well.
 
 
 
