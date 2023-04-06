@@ -40,7 +40,7 @@ The project makes use of 2 csv files namely:
 
 1. sp23_datachallenge.csv - Contains data on user's demographic data, banking history, application details, browser/session details.
 
-2. Data dictionary - Contains explanation of various features provided. 
+2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
 
 <img src="dictionary.png" align="left" height="450" width="700" >
 
@@ -63,7 +63,7 @@ Since this is a fraud detection use case, mere R2 score and accuracy will not be
 - Modeling XGBoost & Hyper parameter optimization
 - Model evaluation & Feature Importance
 
-- Model Inference & Decision Rules - XGboost predictions for each row were provided as an input to a Decision Tree Classifier and the tree was plotted to identify buckets where "banks can immediately approve an application & avoid customer inconvenience" vs "banks need additional checks to ensure user legitimacy (Bio metric verification besides usual credit bureau background checks)"
+- Model Inference & Decision Rules - **XGboost predictions for each row were provided as an input to a Decision Tree Classifier and the tree was plotted to identify buckets where "banks can immediately approve an application & avoid customer inconvenience" vs "banks need additional checks to ensure user legitimacy (Bio metric verification besides usual credit bureau background checks)"**
 
 
 ### EDA insights & Modeling results 
@@ -72,4 +72,4 @@ One can go through the notebook to see all the analysis or alternatively use Ana
 
 
 
-<img src="img1.png" align="left" height="250" width="300" >
+<img src="img1.png" align="left" height="450" width="400" >
