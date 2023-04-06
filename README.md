@@ -1,2 +1,2 @@
-# Wharton-Analytics-Fellows
+Wharton-Analytics-Fellows
 ============================================
