@@ -42,10 +42,11 @@ The project makes use of 2 csv files namely:
 
 2. Spring 2023 WAF Data Challenge Data Dictionary.csv - Contains explanation of various features provided. 
 
-<img src="dictionary.png" align="left" height="450" width="700" > </img>
+<p>
+	<img src="dictionary.png" align="left" height="450" width="700" > </img>
 </p>
 
-
+	
 ### Metrics
 Since this is a fraud detection use case, mere R2 score and accuracy will not be perfect indicators. Hence, I have used ROC Curve and ROC-AUC score as final metric for my XGBoost Model
 
@@ -65,7 +66,6 @@ Since this is a fraud detection use case, mere R2 score and accuracy will not be
 
 - Model Inference & Decision Rules - **XGboost predictions for each row were provided as an input to a Decision Tree Classifier and the tree was plotted to identify buckets where "banks can immediately approve an application & avoid customer inconvenience" vs "banks need additional checks to ensure user legitimacy (Bio metric verification besides usual credit bureau background checks)"**
 
-</p>
 
 ### EDA insights & Modeling results 
 
