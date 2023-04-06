@@ -22,4 +22,4 @@ The project makes use of 4 csv files namely:
 
 2. Data dictionary - Contains explanation of various features provided. 
 
-<img src="dictionary.png" align="left" height="200" width="250" >
+<img src="dictionary.png" align="left" height="700" width="550" >
