@@ -63,8 +63,14 @@ Since this is a fraud detection use case, mere R2 score and accuracy will not be
 
 ### EDA insights & Modeling results 
 
-One can go through the notebook to see all the analysis or alternatively use Analysis Presentation file to see the insights I presented to the client. A snapshot of the slides are given below as well.
+One can go through the notebook to see all the analysis or alternatively see below.
 
 
 
-<img src="img1.png" align="left" height="300" width="600" >
+<img src="results/img1.png" align="left" height="300" width="600" >
+<img src="results/img2.png" align="left" height="300" width="600" >
+<img src="results/img3.png" align="left" height="300" width="600" >
+<img src="results/img4.png" align="left" height="300" width="600" >
+<img src="results/img5.png" align="left" height="300" width="600" >
+
+
